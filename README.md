@@ -1,3 +1,10 @@
+
+## React & Apollo Tutorial 
+
+I made this repository from the sample project [React & Apollo Tutorial](https://www.howtographql.com/react-apollo/0-introduction/) on How to GraphQL for educational purpose.
+
+I have used npm instead yarn.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
